@@ -10,7 +10,7 @@
 
 This plugin can create an excel spreadsheet from a Results table in FIJI.
 
-*see video -* youtube.com/watch?v=dLkoB25MTIY&time_continue=0&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fimagej.net%2F
+*see video -* https://www.youtube.com/watch?v=dLkoB25MTIY
 
 *Instructions:* Help --> Update.. --> Manage Update Sites --> "ResultsToExcel" --> restart FIJI
 
