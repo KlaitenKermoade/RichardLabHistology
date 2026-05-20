@@ -11,8 +11,8 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 </p>
 
 <p align="center">
-  <img src="images/1_ActualImage.png" alt="Collected Image" width="300">
-  <img src="images/2_AlignedAtlasImage.png" alt="Aligned Atlas Image" width="300">
+  <img src="images/1_ActualImage.png" alt="Collected Image">
+  <img src="images/2_AlignedAtlasImage.png" alt="Aligned Atlas Image">
 </p>
 
 ... then used FIJI to resize the aligned image...
