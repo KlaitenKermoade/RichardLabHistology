@@ -19,6 +19,10 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 ... then used FIJI to resize the aligned image...
 </p>
 
+<p align="center">  
+* see FIJI_scripts\5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final *
+</p>
+
 <p align="center">
   <img src="images/1_ActualImage.png" alt="Collected Image">
   <img src="images/3_ResizedAtlasImage.png" alt="Resized Aligned Atlas Image">
@@ -27,10 +31,6 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 
 <p align="center">
 ... then segment and quantify subregional expression based on prior hand-counted selections ...
-</p>
-
-<p align="center">  
-* see FIJI_scripts\5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final *
 </p>
 
 <p align="center">
