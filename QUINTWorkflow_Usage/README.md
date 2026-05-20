@@ -14,11 +14,13 @@ We then used FIJI to resize the aligned image...
 
 ![Collected Image](images/1_ActualImage.png)                       ![Resized (and recolored) atlas image](images/3_ResizedAtlasImage.png)          
 
-then segment and quantify subregional expression based on prior hand-counted selections. 
+then segment and quantify subregional expression based on prior hand-counted selections...
 
 ![Example Alignment](images/4_AlignedAtlasImage.png) 
 
+and finally quantify subregional expression.
 
+![Example Alignment](images/5_Quantification.png) 
 
 NOTE - for use with the CBWJ13 MR-histology rat atlas at age P80 (https://scalablebrainatlas.incf.org/rat/CBWJ13_age_P80; Calabrese et al., 2013), versions of QuickNII and VisuAlign are not available on open-source websites. 
 
