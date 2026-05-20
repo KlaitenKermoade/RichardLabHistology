@@ -6,6 +6,19 @@ Download instructions: https://www.youtube.com/watch?v=7MOUXUPDt-E&list=PL5UhRft
 
 Workflow instructions (through VisuAlign atlas alignment, no segmentation steps): https://www.youtube.com/watch?v=JjFJbSDzaxw&list=PL5UhRftRZ7Qp9x5siX7RugO2UywCE-WBv&index=2
 
+We used unilateral images of the rat basal forebrain and aligned a rat atlas using features of the QUINT protocol. 
+
+![Collected Image]("C:\Users\Klaiten\Desktop\ForGithub_260519\Alignment Images\600ppi\KEK12 midVPl sp 20x 5x7_s007.tif")
+
+![Aligned Atlas Image]("C:\Users\Klaiten\Desktop\ForGithub_260519\Alignment Images\600ppi\KEK12 midVPl sp 20x 5x7_s007_thumbnail_nl.png")
+
+We then used FIJI to resize the aligned image, then segment and quantify subregional expression based on prior hand-counted selections. 
+
+
+![Resized (and recolored) atlas image]("C:\Users\Klaiten\Desktop\ForGithub_260519\Alignment Images\600ppi\KEK12 midVPl sp 20x 5x7_s007_thumbnail_nl-1_1.tif")
+
+![Example Alignment]("C:\Users\Klaiten\Desktop\ForGithub_260519\Alignment Images\600ppi\Asset 1@600x.png")
+
 NOTE - for use with the CBWJ13 MR-histology rat atlas at age P80 (https://scalablebrainatlas.incf.org/rat/CBWJ13_age_P80; Calabrese et al., 2013), versions of QuickNII and VisuAlign are not available on open-source websites. 
 
 For use of this atlas with QuickNII: 
