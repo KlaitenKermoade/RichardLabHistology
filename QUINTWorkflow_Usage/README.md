@@ -7,7 +7,7 @@
 - Workflow instructions (through VisuAlign atlas alignment, no segmentation steps): https://www.youtube.com/watch?v=JjFJbSDzaxw&list=PL5UhRftRZ7Qp9x5siX7RugO2UywCE-WBv&index=2
 
 <p align="center">
-We used unilateral images of the rat basal forebrain and aligned a rat atlas using features of the QUINT protocol.
+We used unilateral images of the rat basal forebrain and aligned a rat atlas using these features of the QUINT protocol.
 </p>
 
 <p align="center">
