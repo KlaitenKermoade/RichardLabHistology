@@ -2,7 +2,7 @@
 
 ## See detailed protocol, and associated youtube videos, with step-by-steps on how we utilized the workflow. 
 
-- Download instructions: https://www.youtube.com/watch?v=7MOUXUPDt-E&list=PL5UhRftRZ7Qp9x5siX7RugO2UywCE-WBv
+- Download instructions for all necessary applications: https://www.youtube.com/watch?v=7MOUXUPDt-E&list=PL5UhRftRZ7Qp9x5siX7RugO2UywCE-WBv
 
 - Workflow instructions (through VisuAlign atlas alignment, no segmentation steps): https://www.youtube.com/watch?v=JjFJbSDzaxw&list=PL5UhRftRZ7Qp9x5siX7RugO2UywCE-WBv&index=2
 
