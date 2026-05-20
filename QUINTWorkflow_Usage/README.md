@@ -15,17 +15,32 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
   <img src="images/2_AlignedAtlasImage.png" alt="Aligned Atlas Image">
 </p>
 
+<p align="center">
 ... then used FIJI to resize the aligned image...
+</p>
 
-![Collected Image](images/1_ActualImage.png)                       ![Resized (and recolored) atlas image](images/3_ResizedAtlasImage.png)          
+<p align="center">
+  <img src="images/1_ActualImage.png" alt="Collected Image">
+  <img src="images/3_ResizedAtlasImage" alt="Resized Aligned Atlas Image">
+</p>
 
+
+<p align="center">
 ... then segment and quantify subregional expression based on prior hand-counted selections...
+</p>
 
-![Example Alignment](images/4_AlignedAtlasImage.png) 
+<p align="center">
+  <img src="images/4_AlignedAtlasImage" alt="Aligned Image">
+</p>
 
+<p align="center">
 ... and finally quantify subregional expression.
+</p>
 
-![Example Alignment](images/5_Quantification.png) 
+
+<p align="center">
+  <img src="images/5_Quantification" alt="Quantification">
+</p>
 
 *NOTE* - for use with the CBWJ13 MR-histology rat atlas at age P80 (https://scalablebrainatlas.incf.org/rat/CBWJ13_age_P80; Calabrese et al., 2013), versions of QuickNII and VisuAlign are not available on open-source websites. 
 
