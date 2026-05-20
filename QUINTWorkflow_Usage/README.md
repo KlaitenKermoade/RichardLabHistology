@@ -27,7 +27,9 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 
 <p align="center">
 ... then segment and quantify subregional expression based on prior hand-counted selections ...
-     * see FIJI_scripts\5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final *
+</p>
+<p align="center">  
+* see FIJI_scripts\5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final *
 </p>
 
 <p align="center">
