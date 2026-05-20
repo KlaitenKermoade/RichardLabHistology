@@ -14,7 +14,7 @@ This plugin can create an excel spreadsheet from a Results table in FIJI.
 
 *Instructions:* Help --> Update.. --> Manage Update Sites --> "ResultsToExcel" --> restart FIJI
 
-*see more instructions https://github.com/antinos/Read_and_Write_Excel_Modified*
+*see more instructions -* https://github.com/antinos/Read_and_Write_Excel_Modified
 
 ## For 4_ImageFluorescence_Colocalization_DrawandAnalyze_Final: 
 **2. Color Pixel Counter package - https://imagejdocu.list.lu/plugin/color/color_pixel_counter/start**
