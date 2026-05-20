@@ -1,8 +1,8 @@
 # RichardLabHistology
 
-These branches contain helpful processing guidelines for using FIJI to quantify fluorescence signal, fluorescence colocalization, and cell segmentation. These were used to characterize fluorescence of neurons within images captured from brain tissue that underwent intracranial viral surgery, in which target neurons express fluorescent markers. 
+**These branches contain helpful processing scripts and guidelines for using FIJI to quantify fluorescence signal, fluorescence colocalization, and cell segmentation. These were used to characterize fluorescence of neurons within images captured from brain tissue that underwent intracranial viral surgery, in which target neurons express fluorescent markers.** 
 
-See READMEs for FIJI_scripts and QUINTWorkflow_Usage branches for more details. 
+*See READMEs for FIJI_scripts and QUINTWorkflow_Usage branches for more details.* 
 
 Original QUINT processing that we heavily relied on: 
 https://quint-workflow.readthedocs.io/en/latest/QUINTintro.html
