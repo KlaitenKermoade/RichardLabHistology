@@ -21,7 +21,7 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 
 <p align="center">
   <img src="images/1_ActualImage.png" alt="Collected Image">
-  <img src="images/3_ResizedAtlasImage" alt="Resized Aligned Atlas Image">
+  <img src="images/3_ResizedAtlasImage.png" alt="Resized Aligned Atlas Image">
 </p>
 
 
@@ -30,7 +30,7 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 </p>
 
 <p align="center">
-  <img src="images/4_AlignedAtlasImage" alt="Aligned Image">
+  <img src="images/4_AlignedAtlasImage.png" alt="Aligned Image">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 
 
 <p align="center">
-  <img src="images/5_Quantification" alt="Quantification">
+  <img src="images/5_Quantification.png" alt="Quantification">
 </p>
 
 *NOTE* - for use with the CBWJ13 MR-histology rat atlas at age P80 (https://scalablebrainatlas.incf.org/rat/CBWJ13_age_P80; Calabrese et al., 2013), versions of QuickNII and VisuAlign are not available on open-source websites. 
