@@ -10,9 +10,9 @@
 
 This plugin can create an excel spreadsheet from a Results table in FIJI.
 
-*see video - youtube.com/watch?v=dLkoB25MTIY&time_continue=0&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fimagej.net%2F*
+*see video -* youtube.com/watch?v=dLkoB25MTIY&time_continue=0&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fimagej.net%2F
 
-Instructions: Help --> Update.. --> Manage Update Sites --> "ResultsToExcel" --> restart FIJI
+*Instructions:* Help --> Update.. --> Manage Update Sites --> "ResultsToExcel" --> restart FIJI
 
 *see more instructions https://github.com/antinos/Read_and_Write_Excel_Modified*
 
@@ -25,7 +25,7 @@ This plugin can measure how many pixels are of a given color in an RGB color ima
   <img src="images/2_Color_Pixel_Counter.png" alt="Color_Pixel_Counter">
 </p>
 
-Instructions: copy the class file located at that website into the ImageJ plugins folder
+*Instructions:* copy the class file located at that website into the ImageJ plugins folder
 
 ## For 5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final: 
 **3. BIOP Label + Region Of Interest + Measure (LaRoMe) package - https://github.com/BIOP/ijp-LaRoMe**
@@ -36,7 +36,7 @@ This plugin can create ROIs within same colored pixels, which was then used to t
   <img src="images/3_BIOP_Usage.png" alt="BIOP">
 </p>
 
-Instructions: Help --> Update.. --> Manage Update Sites --> "PTBIOP" --> restart FIJI
+*Instructions:* Help --> Update.. --> Manage Update Sites --> "PTBIOP" --> restart FIJI
 
 
 
