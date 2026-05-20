@@ -33,7 +33,7 @@ Instructions: copy the class file located at that website into the ImageJ plugin
 This plugin can create ROIs within same colored pixels, which was then used to then attach subregion names to images. 
 
 <p align="center">
-  <img src="images/3_BIOP" alt="BIOP">
+  <img src="images/3_BIOP.png" alt="BIOP">
 </p>
 
 Instructions: Help --> Update.. --> Manage Update Sites --> "PTBIOP" --> restart FIJI
