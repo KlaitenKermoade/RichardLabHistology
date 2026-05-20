@@ -20,7 +20,7 @@ We used unilateral images of the rat basal forebrain and aligned a rat atlas usi
 </p>
 
 <p align="center">  
-* see FIJI_scripts\5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final *
+  <i>see FIJI_scripts\5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final</i>
 </p>
 
 <p align="center">
