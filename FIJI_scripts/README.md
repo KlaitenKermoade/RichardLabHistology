@@ -6,7 +6,7 @@ These 5 custom-built .ijm FIJI macro scripts were built with the intentions of f
 
 1. **1_CellCounting_InsideandOutsideROI_Final** - draw ROI; select cells; count how many cells are inside and outside ROI
 
-2. **2_FluorescenceMeasurement_InsideROI_Final** - draw ROI; measure fluorescence intensity inside ROI
+2. **2_FluorescenceMeasurement_InsideROI_Final** - draw ROI; measure fluorescence intensity inside ROI; see video - https://www.youtube.com/watch?v=1B5gDW0SzBQ
 
 3. **3_ImageFluorescence_ExclusionGeneration_Final** - from list of images with FITC and TRITC signal, exclude images with non-normal fluorescence in either channel (in an unbiased manner)
 
