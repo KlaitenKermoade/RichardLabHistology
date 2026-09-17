@@ -14,6 +14,8 @@ These 5 custom-built .ijm FIJI macro scripts were built with the intentions of f
 
 5. **5_SubregionalCellSegmentation_UsingAtlasRegistrationandPreviousCellSelections_Final** - load image, QUINT-processed atlas alignment, and file with previously hand-selected cell puncta; segment cells subregionally
 
+6. **6_AnalyzeParticlesQuantificationandROIStorage_Final** - toggle target ROI over target region and analyze puncta from fluorescent signal, saving 1) ROI, 2) puncta counts within ROI, 3) boundaries of puncta, 4) data about each puncta
+
 *See APIs at top of each script for more details.* 
 
 
